@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseAuth</string>
+    <string name="shared">LOGIN</string>
+    <string name="sair">Sair</string>
+</resources>
